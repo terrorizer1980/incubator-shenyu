@@ -101,7 +101,7 @@
         <wiremock.version>2.18.0</wiremock.version>
         <zookeeper.version>3.5.6</zookeeper.version>
         <zkclient.version>0.10</zkclient.version>
-        <shiro.version>1.7.0</shiro.version>
+        <shiro.version>2.0.5</shiro.version>
         <jwt.version>3.12.0</jwt.version>
         <motan.version>1.1.9</motan.version>
         <spring-boot.version>2.2.2.RELEASE</spring-boot.version>
@@ -110,7 +110,7 @@
         <jetcd-core.version>0.5.0</jetcd-core.version>
         <java-websocket.version>1.5.0</java-websocket.version>
         <mockito.version>3.5.15</mockito.version>
-        <nacos-client.version>2.0.0</nacos-client.version>
+        <nacos-client.version>3.0.0</nacos-client.version>
         <groovy.version>2.5.14</groovy.version>
         <spring-security.version>5.3.10.RELEASE</spring-security.version>
         <!--maven plugin version-->
